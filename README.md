@@ -11,11 +11,11 @@ With over 9 years of programming and hacking experience, I'm a dedicated coder o
 - 💸 Profit from In-Game Skins: I leveraged my coding skills to not just build, but to profit from creating and selling in-game skins.
 - 💰 Grants and Prizes: Having secured grants and prizes totaling $300k, I'm fueled by my relentless pursuit of excellence.
 - 🎓 Startup Wise Guys Pre-Accelerator Graduate: A proud graduate of the Startup Wise Guys pre-accelerator program, honing my expertise.
-- 🥇 SAGA Multiverse Hackathon Champion: Secured the 1st place in the "Best WEB3 Game, Entertainment, or DeFI App" category.
-- 🥇 ZetaChain Omnichain Hackathon Victory: Led the gaming vertical and emerged victorious in the ZetaChain Omnichain Hackathon.
-- 🥇 Kirobu Trading Hackathon Triumph: Triumphed in the Kirobu Trading Hackathon, showcasing my coding prowess.
-- 🥈 AIBC Hackathon Runner-Up: Bagged the 2nd place in the AIBC Hackathon by Playnance, proving my coding mettle.
-- 🥉 Hack-a-TONx Third Place: Demonstrated my skills by securing the 3rd place in the Hack-a-TONx by TON.
+- 🥇 SAGA Multiverse Hackathon 1st place: Secured the 1st place in the "Best WEB3 Game, Entertainment, or DeFI App" category.
+- 🥇 ZetaChain Omnichain Hackathon 1st place: Led the gaming vertical and emerged victorious in the ZetaChain Omnichain Hackathon.
+- 🥇 Kirobu Trading Hackathon 1st place: Triumphed in the Kirobu Trading Hackathon, showcasing my coding prowess.
+- 🥈 AIBC Hackathon 2nd place: Bagged the 2nd place in the AIBC Hackathon by Playnance, proving my coding mettle.
+- 🥉 Hack-a-TONx 3rd place: Demonstrated my skills by securing the 3rd place in the Hack-a-TONx by TON.
 - 👨🏻‍💻 Microsoft for Startups Partner: Proudly partnered with Microsoft for Startups, contributing to the tech evolution.
 
 ### Expertise 💡
