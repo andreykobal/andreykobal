@@ -11,7 +11,7 @@ With over 9 years of programming and hacking experience, I'm a dedicated coder o
 - 💸 Profit from In-Game Skins: I leveraged my coding skills to not just build, but to profit from creating and selling in-game skins.
 - 💰 Grants and Prizes: Having secured grants and prizes totaling $300k, I'm fueled by my relentless pursuit of excellence.
 - 🎓 Startup Wise Guys Pre-Accelerator Graduate: A proud graduate of the Startup Wise Guys pre-accelerator program, honing my expertise.
-- 🥇 Hackathon Champion: Secured the 1st place in the "Best WEB3 Game, Entertainment, or DeFI App" category at the SAGA Multiverse Hackathon.
+- 🥇 SAGA Multiverse Hackathon Champion: Secured the 1st place in the "Best WEB3 Game, Entertainment, or DeFI App" category.
 - 🥇 ZetaChain Omnichain Hackathon Victory: Led the gaming vertical and emerged victorious in the ZetaChain Omnichain Hackathon.
 - 🥇 Kirobu Trading Hackathon Triumph: Triumphed in the Kirobu Trading Hackathon, showcasing my coding prowess.
 - 🥈 AIBC Hackathon Runner-Up: Bagged the 2nd place in the AIBC Hackathon by Playnance, proving my coding mettle.
