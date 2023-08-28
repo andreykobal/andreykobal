@@ -4,7 +4,7 @@
 ## Hi there! 👋 I'm Andreas Kobal, Your Friendly Code Enthusiast 🚀
 
 ### About Me
-With over 9 years of programming and hacking experience, I'm a dedicated coder on a mission to push the boundaries of tech. Currently donning the hat of CTO at AILAND, I'm deeply passionate about merging cutting-edge technology with the thrill of gaming.
+With 10 years of programming and hacking experience, I'm a dedicated coder on a mission to push the boundaries of tech. Currently donning the hat of CTO at AILAND, I'm deeply passionate about merging cutting-edge technology with the thrill of gaming.
 
 ### Achievements 🏆
 - 🎮 AILAND's CTO: Part of the dynamic team that brought 30k pre-alpha testers together, shaping the future of gaming.
