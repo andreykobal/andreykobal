@@ -8,15 +8,17 @@ With 10 years of programming and hacking experience, I'm a dedicated coder on a 
 
 ### Achievements 🏆
 - 🎮 AILAND's CTO: Part of the dynamic team that brought 30k pre-alpha testers together, shaping the future of gaming.
-- 💸 Profit from In-Game Skins: I leveraged my coding skills to not just build, but to profit from creating and selling in-game skins.
-- 💰 Grants and Prizes: Having secured grants and prizes totaling $300k, I'm fueled by my relentless pursuit of excellence.
-- 🎓 Startup Wise Guys Pre-Accelerator Graduate: A proud graduate of the Startup Wise Guys pre-accelerator program, honing my expertise.
-- 🥇 SAGA Multiverse Hackathon 1st place: Secured the 1st place in the "Best WEB3 Game, Entertainment, or DeFI App" category.
-- 🥇 ZetaChain Omnichain Hackathon 1st place: Led the gaming vertical and emerged victorious in the ZetaChain Omnichain Hackathon.
-- 🥇 Kirobu Trading Hackathon 1st place: Triumphed in the Kirobu Trading Hackathon, showcasing my coding prowess.
-- 🥈 AIBC Hackathon 2nd place: Bagged the 2nd place in the AIBC Hackathon by Playnance, proving my coding mettle.
-- 🥉 Hack-a-TONx 3rd place: Demonstrated my skills by securing the 3rd place in the Hack-a-TONx by TON.
-- 👨🏻‍💻 Microsoft for Startups Partner: Proudly partnered with Microsoft for Startups, contributing to the tech evolution.
+- 🏆 Game Development World Championship: Best Web3 Game Finalist
+- 🥇 Bitcoin Olympics Hackathon: Rootstock Prize
+- 🥇 Polygon DevX EMEA Hackathon: Polygon (Labs) Prize
+- 🥇 GameWave Genesis Hackathon: AAG Prize
+- 🥇 SAGA Multiverse Hackathon 1st place
+- 🥇 ZetaChain Omnichain Hackathon 1st place GameFi
+- 🥇 Kirobu Trading Hackathon 1st place
+- 🥈 AIBC Playnance Hackathon 2nd place
+- 🥉 Hack-a-TONx 3rd place
+- 🎓 Startup Wise Guys Pre-Accelerator Graduate
+- 👨🏻‍💻 Proud to partner with Microsoft for Startups
 
 ### Expertise 💡
 Proficient in: Solidity | JS | Python | C# | Rust | AI | Blockchain | Web3 | NFT 
