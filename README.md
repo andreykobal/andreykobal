@@ -9,6 +9,7 @@ With 10 years of programming and hacking experience, I'm a dedicated coder on a 
 ### Achievements 🏆
 - 🎮 AILAND's CTO: Part of the dynamic team that brought 30k pre-alpha testers together, shaping the future of gaming.
 - 🏆 Game Development World Championship: Best Web3 Game Finalist
+- 🥇 Klaymakers 2023 Global Hackathon: Metaverse & Gaming 3rd place
 - 🥇 Bitcoin Olympics Hackathon: Rootstock Prize
 - 🥇 Polygon DevX EMEA Hackathon: Polygon (Labs) Prize
 - 🥇 GameWave Genesis Hackathon: AAG Prize
