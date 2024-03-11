@@ -1,7 +1,7 @@
 
 ![cover-1](https://github.com/andreykobal/andreykobal/assets/19206978/3398155f-8c1a-4a4d-aed1-3c9420adf06c)
 
-## Hi there! 👋 I'm Andreas Kobal, Your Friendly Code Enthusiast 🚀
+## Hi there! 👋 I'm Andrew Kobal, Your Friendly Code Enthusiast 🚀
 
 ### About Me
 With 10 years of programming and hacking experience, I'm a dedicated coder on a mission to push the boundaries of tech. Currently donning the hat of CTO at AILAND, I'm deeply passionate about merging cutting-edge technology with the thrill of gaming.
