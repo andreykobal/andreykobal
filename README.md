@@ -13,6 +13,7 @@ With 10+ years of programming and hacking experience, I'm a dedicated coder on a
 - 🥇 Klaymakers 2023 Global Hackathon Winner
 - 🥇 Bitcoin Olympics Hackathon Winner
 - 🥇 Polygon DevX EMEA Hackathon Winner
+- 🥇 MAHa - Telegram Mini App Hackathon Winner
 - 🥇 GameWave Genesis Hackathon Winner
 - 🥇 SAGA Multiverse Hackathon Winner
 - 🥇 ZetaChain Omnichain Hackathon Winner
