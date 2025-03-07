@@ -1,10 +1,10 @@
 ## Hi there! 👋 I'm Andrew Kobal, Your Technical Visionary 🚀
 
 ### About Me
-With 10+ years of programming and hacking experience, I'm a dedicated coder on a mission to push the boundaries of tech. As the CTO at ETHERNITY, I'm deeply passionate about merging cutting-edge technology with the thrill of gaming.
+With 10+ years of programming and hacking experience, I'm a dedicated coder on a mission to push the boundaries of tech. As the CTO, I'm deeply passionate about merging cutting-edge technology with AI and WEB3.
 
 ### Achievements 🏆
-- 🎮 ETHERNITY's CTO: Leading the team that brought 1M+ players together, shaping the future of web3 gaming.
+- 🎮 CTO: Leading teams that brought 1M+ users together, shaping the future of web3 and AI.
 - 🏆 Game Development World Championship: Best Web3 Game Finalist
 - 🥇 BNB Chain Q1 Hackathon Winner
 - 🥇 Klaymakers 2023 Global Hackathon Winner
