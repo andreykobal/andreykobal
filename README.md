@@ -1,6 +1,3 @@
-
-![0 ethernity](https://github.com/andreykobal/andreykobal/assets/19206978/3998a26d-67e5-4521-9eda-29eed0312b8f)
-
 ## Hi there! 👋 I'm Andrew Kobal, Your Technical Visionary 🚀
 
 ### About Me
