@@ -17,6 +17,7 @@ With 10+ years of programming and hacking experience, I'm a dedicated coder on a
 - 🥇 Kirobu Trading Hackathon Winner
 - 🥇 AIBC Playnance Hackathon Winner
 - 🥇 Hack-a-TONx Winner
+- 🥇 ICP Ideathon Winner
 - 🎓 Startup Wise Guys Pre-Accelerator Graduate
 - 🎓 Polygon Builder House Lisbon Graduate
 - 👨🏻‍💻 Partnering with Microsoft for Startups
