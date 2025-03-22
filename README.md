@@ -18,13 +18,12 @@ With 10+ years of programming and hacking experience, I'm a dedicated coder on a
 - 🥇 AIBC Playnance Hackathon Winner
 - 🥇 Hack-a-TONx Winner
 - 🥇 ICP Ideathon Winner
+- 🥇 One Trillion Agents Hackathon Winner
 - 🎓 Startup Wise Guys Pre-Accelerator Graduate
 - 🎓 Polygon Builder House Lisbon Graduate
-- 👨🏻‍💻 Partnering with Microsoft for Startups
-- 👨🏻‍💻 Partnering with Google for Startups
 
 ### Expertise 💡
-Proficient in: Solidity | JS | Python | C# | Rust | AI | Blockchain | Web3 | NFT 
+Proficient in: Solidity | JS | Python | C# | Rust | AI | Blockchain | Web3 | DeFi 
 
 ### Connect with Me
 Join me on my journey as I continue to transform lines of code into groundbreaking innovations. Let's explore the fascinating world where tech meets gaming and beyond! 🌟
