@@ -1,10 +1,9 @@
 ## Hi there! 👋 I'm Andrew Kobal, Your Technical Visionary 🚀
 
 ### About Me
-With 10+ years of programming and hacking experience, I'm a dedicated coder on a mission to push the boundaries of tech. As the CTO, I'm deeply passionate about merging cutting-edge technology with AI and WEB3.
+I am a full stack developer with over 5 years of experience, specializing in blockchain, AI, mobile, and web development. I work on both frontend and backend to build powerful and scalable solutions.
 
 ### Achievements 🏆
-- 🎮 CTO: Leading teams that brought 1M+ users together, shaping the future of web3 and AI.
 - 🏆 Game Development World Championship: Best Web3 Game Finalist
 - 🥇 BNB Chain Q1 Hackathon Winner
 - 🥇 Klaymakers 2023 Global Hackathon Winner
