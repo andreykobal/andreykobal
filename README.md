@@ -29,7 +29,5 @@ Join me on my journey as I continue to transform lines of code into groundbreaki
 
 ![GitHub Followers](https://img.shields.io/github/followers/andreykobal?label=Follow&style=social)
 
-📫 Reach me at: kobalandreas@gmail.com
-
 Let's code, conquer, and create magic in the digital realm! 🚀👨🏻‍💻🎮
 
