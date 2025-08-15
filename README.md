@@ -1,33 +1,39 @@
-## Hi there! 👋 I'm Andrew Kobal, Your Technical Visionary 🚀
+# Andrew Kobal
 
-### About Me
-I am a full stack developer with over 5 years of experience, specializing in blockchain, AI, mobile, and web development. I work on both frontend and backend to build powerful and scalable solutions.
+**Award-winning Full Stack Developer | Blockchain | AI | Mobile | Web**
 
-### Achievements 🏆
-- 🏆 Game Development World Championship: Best Web3 Game Finalist
-- 🥇 BNB Chain Q1 Hackathon Winner
-- 🥇 Klaymakers 2023 Global Hackathon Winner
-- 🥇 Bitcoin Olympics Hackathon Winner
-- 🥇 Polygon DevX EMEA Hackathon Winner
-- 🥇 MAHa - Telegram Mini App Hackathon Winner
-- 🥇 GameWave Genesis Hackathon Winner
-- 🥇 SAGA Multiverse Hackathon Winner
-- 🥇 ZetaChain Omnichain Hackathon Winner
-- 🥇 Kirobu Trading Hackathon Winner
-- 🥇 AIBC Playnance Hackathon Winner
-- 🥇 Hack-a-TONx Winner
-- 🥇 ICP Ideathon Winner
-- 🥇 One Trillion Agents Hackathon Winner
-- 🎓 Startup Wise Guys Pre-Accelerator Graduate
-- 🎓 Polygon Builder House Lisbon Graduate
+---
 
-### Expertise 💡
-Proficient in: Solidity | JS | Python | C# | Rust | AI | Blockchain | Web3 | DeFi 
+## About Me
+Full Stack Developer with over 10 years of experience in blockchain, AI, mobile, and web development. I design and deliver scalable, end-to-end solutions, working seamlessly across frontend and backend technologies. My work blends deep technical expertise with a focus on measurable business outcomes.
 
-### Connect with Me
-Join me on my journey as I continue to transform lines of code into groundbreaking innovations. Let's explore the fascinating world where tech meets gaming and beyond! 🌟
+---
 
-![GitHub Followers](https://img.shields.io/github/followers/andreykobal?label=Follow&style=social)
+## Achievements
+- Winner of 13 major global hackathons:
+  - BNB Chain Q1 Hackathon
+  - Klaymakers 2023 Global Hackathon
+  - Bitcoin Olympics Hackathon
+  - Polygon DevX EMEA Hackathon
+  - MAHa – Telegram Mini App Hackathon
+  - GameWave Genesis Hackathon
+  - SAGA Multiverse Hackathon
+  - ZetaChain Omnichain Hackathon
+  - Kirobu Trading Hackathon
+  - AIBC Playnance Hackathon
+  - Hack-a-TONx
+  - ICP Ideathon
+  - One Trillion Agents Hackathon
+- Startup Wise Guys Pre-Accelerator Graduate
+- Polygon Builder House Lisbon Graduate
 
-Let's code, conquer, and create magic in the digital realm! 🚀👨🏻‍💻🎮
+---
 
+## Expertise
+Solidity | JavaScript | Python | C# | Rust | AI | Blockchain | Web3 | DeFi | Mobile Apps | Scalable Architecture
+
+---
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/andrew-kobal/)
+- [GitHub](https://github.com/andreykobal)
