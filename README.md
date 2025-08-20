@@ -2,12 +2,10 @@
 
 **Award-winning Full Stack Developer | Blockchain | AI | Mobile | Web**
 
----
 
 ## About Me
 Full Stack Developer with over 10 years of experience in blockchain, AI, mobile, and web development. I design and deliver scalable, end-to-end solutions, working seamlessly across frontend and backend technologies. My work blends deep technical expertise with a focus on measurable business outcomes.
 
----
 
 ## Achievements
 - Winner of 13 major global hackathons:
@@ -27,13 +25,10 @@ Full Stack Developer with over 10 years of experience in blockchain, AI, mobile,
 - Startup Wise Guys Pre-Accelerator Graduate
 - Polygon Builder House Lisbon Graduate
 
----
 
 ## Expertise
 Solidity | JavaScript | Python | C# | Rust | AI | Blockchain | Web3 | DeFi | Mobile Apps | Scalable Architecture
 
----
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/andrew-kobal/)
-- [GitHub](https://github.com/andreykobal)
